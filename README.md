@@ -44,7 +44,7 @@ The dashboard provides a complete overview of key business metrics, visualizing 
 ## 📂 Project Files
 | File | Description |
 |------|-------------|
-| `Dashboard.png` | Dashboard preview image |
+| https://github.com/Imhritik000/FnP-Sales-Analysis-/blob/main/Dashboard.png | Dashboard preview image |
 
 ---
 
